@@ -1,7 +1,7 @@
 ### Hey there! I'm Parul 👋
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;An IT student with eager to learn and work upon various new technologies.\
 🎓 &nbsp;I'm currently pursuing Integrated Btech + Mtech from [IIITM Gwalior](www.iiitm.ac.in).\
