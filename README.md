@@ -36,8 +36,7 @@
 <a href="https://github.com/parulsurana">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=parulsurana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   &nbsp;
-    &nbsp;
-    &nbsp;
+  <br/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parulsurana&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
@@ -49,3 +48,10 @@
 <a href="https://mail.google.com/mail/u/0/?tab=rm1#inbox"><img src="https://img.shields.io/badge/-suranaparul2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/jain__parul/"><img src="https://img.shields.io/badge/-@jain__parul-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=parulsurana&&style=flat-square" align="center" />
+</div>  
+<br/>
+
+<div align="center">&nbsp; Thanks for Visiting! See you around.
