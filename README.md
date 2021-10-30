@@ -3,7 +3,7 @@
 
 <!-- ### 👩🏻‍💻 &nbsp;About Me -->
 
-<p>I am a junior-year student pursuing Integrated BTech and Mtech from IIIT Gwalior in Information Technology. <br> Right now I am practicing my Developement as well as Coding Skills.Also a designer who possess working  <br>knowledge of Adobe Photoshop.</p>
+<p>I am a junior-year student pursuing Integrated BTech and Mtech from IIIT Gwalior in Information Technology. <br> Right now I am practicing my Developement as well as Coding Skills. Also a designer who possess working  <br>knowledge of Adobe Photoshop.</p>
 <!-- 💡 &nbsp;An IT student with eager to learn and work upon various new technologies.\
 🎓 &nbsp;I'm currently pursuing Integrated Btech + Mtech from [IIITM Gwalior](www.iiitm.ac.in).\
 🌱 &nbsp;I'm on track for learning more about Developement and Competitive Coding.\
