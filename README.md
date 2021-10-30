@@ -1,19 +1,21 @@
-### Hey there! I'm Parul 👋
+### Hey there! I'm Parul Surana👋
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👩🏻‍💻 &nbsp;About Me
+<!-- ### 👩🏻‍💻 &nbsp;About Me -->
 
-💡 &nbsp;An IT student with eager to learn and work upon various new technologies.\
+<p>I am a junior-year student pursuing Integrated BTech and Mtech from IIIT Gwalior in Information Technology. Right now I am practicing my Developement as well as Coding Skills.Also a designer who possess working knowledge of Adobe Photoshop.</p>
+<!-- 💡 &nbsp;An IT student with eager to learn and work upon various new technologies.\
 🎓 &nbsp;I'm currently pursuing Integrated Btech + Mtech from [IIITM Gwalior](www.iiitm.ac.in).\
 🌱 &nbsp;I'm on track for learning more about Developement and Competitive Coding.\
-✍️ &nbsp;A designer who possess working knowledge of Adobe Photoshop.
+✍️ &nbsp;A designer who possess working knowledge of Adobe Photoshop. -->
 
 
-### ✨ &nbsp;Skills
-
+<!-- ### ✨ &nbsp;Skills -->
+### &nbsp;Skills:<br>
 &nbsp;MERN Stack Developer | Graphic Designer | PhotoShop
 
-### 🛠 &nbsp;Tech Stack
+<!-- ### 🛠 &nbsp;Tech Stack -->
+### &nbsp;Languages and Tools: <br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -30,15 +32,15 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
 <a href="https://github.com/parulsurana">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=parulsurana&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   &nbsp;
+<!--   <br/>
   <br/>
-  <br/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parulsurana&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parulsurana&layout=compact&langs_count=8&theme=dark"/> -->
 </a>
 </p>
 
