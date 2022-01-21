@@ -19,7 +19,7 @@ Interested in Problem-solving and used that interest in developing cool and awes
 &nbsp;MERN Stack Developer | Problem Solver | Graphic Designer | PhotoShop
 
 <!-- ### 🛠 &nbsp;Tech Stack -->
-### &nbsp;Languages and Tools: <br>
+
 
 <p align="left">
 </p>
