@@ -21,9 +21,6 @@ Interested in Problem-solving and used that interest in developing cool and awes
 <!-- ### 🛠 &nbsp;Tech Stack -->
 ### &nbsp;Languages and Tools: <br>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
