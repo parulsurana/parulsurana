@@ -5,7 +5,7 @@
 
 <p>I am a junior-year student pursuing Integrated BTech and Mtech from IIIT Gwalior in Information Technology. <br>I aspire to be exposed to a broad set of skills that help me learn to manage things.<br>
 Till now I have worked in C++, Javascript, ReactJs, NodeJs, MongoDB, ExpressJs, Firebase and SQL. <br>
-I am eager to learn and work upon various new technologies.
+I am eager to learn and work upon various new technologies.<br>
 Interested in Problem-solving and used that interest in developing cool and awesome websites, also a designer who possesses a working knowledge of Adobe Photoshop.
 . <br> Right now I am practicing my Developement as well as Coding Skills.</p>
 <!-- 💡 &nbsp;An IT student with eager to learn and work upon various new technologies.\
@@ -16,7 +16,7 @@ Interested in Problem-solving and used that interest in developing cool and awes
 
 <!-- ### ✨ &nbsp;Skills -->
 ### &nbsp;Skills:<br>
-&nbsp;MERN Stack Developer | Graphic Designer | PhotoShop
+&nbsp;MERN Stack Developer | Problem Solver | Graphic Designer | PhotoShop
 
 <!-- ### 🛠 &nbsp;Tech Stack -->
 ### &nbsp;Languages and Tools: <br>
@@ -38,7 +38,7 @@ Interested in Problem-solving and used that interest in developing cool and awes
 
 ### ⚙️ &nbsp;GitHub Stats
 
-<p align="center">
+<p>
 <a href="https://github.com/parulsurana">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=parulsurana&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   &nbsp;
