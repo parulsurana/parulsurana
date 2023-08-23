@@ -3,12 +3,12 @@
 
 <!-- ### 👩🏻‍💻 &nbsp;About Me -->
 
-<p>I am a junior-year student pursuing Integrated BTech and Mtech from IIIT Gwalior in Information Technology. <br>I aspire to be exposed to a broad set of skills that help me learn to manage things.<br>
-Till now I have worked in C++, Javascript, ReactJs, NodeJs, MongoDB, ExpressJs, Firebase and SQL. <br>
-I am eager to learn and work upon various new technologies.<br>
-Interested in Problem-solving and used that interest in developing cool and awesome websites, also a designer who possesses a working knowledge of Adobe Photoshop.
+<p>I am a final-year student pursuing Integrated BTech and Mtech from IIIT Gwalior in Information Technology. <br>I aspire to be exposed to broad skills that help me learn to manage things.<br>
+Till now I have worked in C++, Javascript, ReactJs, NodeJs, MongoDB, ExpressJs, Firebase, and SQL. <br>
+I am eager to learn and work on various new technologies.<br>
+Interested in Problem-solving and used that interest in developing cool and awesome websites, also a designer with a working knowledge of Adobe Photoshop.
 . <br> Right now I am practicing my Developement as well as Coding Skills.</p>
-<!-- 💡 &nbsp;An IT student with eager to learn and work upon various new technologies.\
+<!-- 💡 &nbsp;An IT student eager to learn and work on various new technologies.\
 🎓 &nbsp;I'm currently pursuing Integrated Btech + Mtech from [IIITM Gwalior](www.iiitm.ac.in).\
 🌱 &nbsp;I'm on track for learning more about Developement and Competitive Coding.\
 ✍️ &nbsp;A designer who possess working knowledge of Adobe Photoshop. -->
